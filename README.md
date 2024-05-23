@@ -19,3 +19,4 @@
 </br>
 <img src="https://imgur.com/jBMZMXM.png" height="80%" width ="80%"/>
 </p>
+After hours and hours of trying to get thehive setup properly, I cannot get it out of a 'fail' state. I will start over from square one, and make all systems in Azure.
